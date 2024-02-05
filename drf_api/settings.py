@@ -63,7 +63,7 @@ DEBUG = 'DEV' in os.environ
 
 ALLOWED_HOSTS = [
     '8000-sam2829-drfapi1-2ww9ps5rji2.ws-eu108.gitpod.io',
-    'crf-api-1.herokuapp.com'
+    'crf-api-1-952b00a16d56.herokuapp.com'
 ]
 
 
